@@ -23,5 +23,6 @@ You can change data to show in `lab1.py` in string `14`:
 
 or in `lab1.1.ipynd` in string `75`:
 
+
     "make_plot.make_graphics(database_df,  ['Wind Speed', 'Wind', 'Temperature'])"
 
